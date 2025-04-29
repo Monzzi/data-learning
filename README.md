@@ -12,7 +12,7 @@ Este repositorio recoge mi aprendizaje en análisis y visualización de datos us
 - 📊 `plotly/`  
   Notebooks y scripts de prueba con la librería Plotly para visualización de datos en Python.
 
-- 🧪 `experimentos-chaty/`  
+- 🧪 `lab-chaty/`  
   Pruebas personales, ideas sueltas y experimentos de código creados junto a ChatGPT.
 
 - 📦 `requirements.txt`  
@@ -25,6 +25,7 @@ Este repositorio recoge mi aprendizaje en análisis y visualización de datos us
 ## 🚀 Cómo usar este proyecto
 
 1. Clona el repositorio:
+
 ```bash
 git clone git@github.com:Monzzi/data-learning.git
 cd data-learning
@@ -48,3 +49,4 @@ Explorar, practicar y crecer en el mundo del análisis de datos con Python, desa
     🗂 Organización de notebooks temáticos
 
     🧰 Automatización de análisis simples con scripts en Python
+```
